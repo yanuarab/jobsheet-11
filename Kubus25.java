@@ -1,6 +1,6 @@
 import java.util.Scanner; 
  
-public class Kubus14 { 
+public class Kubus25 { 
     public static void main(String[] args) { 
         Scanner input = new Scanner(System.in); 
         int sisi, L, vol; 
